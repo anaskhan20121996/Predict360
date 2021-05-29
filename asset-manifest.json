@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Predict360/static/css/main.8a1e8017.chunk.css",
+    "main.js": "/Predict360/static/js/main.9b213050.chunk.js",
+    "main.js.map": "/Predict360/static/js/main.9b213050.chunk.js.map",
+    "runtime-main.js": "/Predict360/static/js/runtime-main.dca382f4.js",
+    "runtime-main.js.map": "/Predict360/static/js/runtime-main.dca382f4.js.map",
+    "static/js/2.13a69cbc.chunk.js": "/Predict360/static/js/2.13a69cbc.chunk.js",
+    "static/js/2.13a69cbc.chunk.js.map": "/Predict360/static/js/2.13a69cbc.chunk.js.map",
+    "static/js/3.f00ba8a0.chunk.js": "/Predict360/static/js/3.f00ba8a0.chunk.js",
+    "static/js/3.f00ba8a0.chunk.js.map": "/Predict360/static/js/3.f00ba8a0.chunk.js.map",
+    "index.html": "/Predict360/index.html",
+    "static/css/main.8a1e8017.chunk.css.map": "/Predict360/static/css/main.8a1e8017.chunk.css.map",
+    "static/js/2.13a69cbc.chunk.js.LICENSE.txt": "/Predict360/static/js/2.13a69cbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dca382f4.js",
+    "static/js/2.13a69cbc.chunk.js",
+    "static/css/main.8a1e8017.chunk.css",
+    "static/js/main.9b213050.chunk.js"
+  ]
+}
