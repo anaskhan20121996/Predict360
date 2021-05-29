@@ -1,0 +1,201 @@
+.Home05_slider_img_9:hover{
+transform: scale(1.5);
+-webkit-box-shadow: 0px 0px 8px 5px black;
+-moz-box-shadow: 0px 0px 8px 2px light green;
+box-shadow: 0px 0px 8px 2px light blue;
+ /* (150% zoom)*/	  
+}
+
+.Home05_slider_img_3:hover{
+	transform: scale(1.5);
+	-webkit-box-shadow: 0px 0px 8px 5px black;
+	-moz-box-shadow: 0px 0px 8px 2px light green;
+	box-shadow: 0px 0px 8px 2px light blue;
+	 /* (150% zoom)*/	  
+	}
+
+.Home05_slider_img_4:hover{
+	transform: scale(1.5);
+	-webkit-box-shadow: 0px 0px 8px 5px black;
+	-moz-box-shadow: 0px 0px 8px 2px light green;
+	box-shadow: 0px 0px 8px 2px light blue;
+	 /* (150% zoom)*/	  
+	}
+
+.Home05_slider_img_6:hover{
+	transform: scale(1.5);
+	-webkit-box-shadow: 0px 0px 8px 5px black;
+	-moz-box-shadow: 0px 0px 8px 2px light green;
+	box-shadow: 0px 0px 8px 2px light blue;
+	 /* (150% zoom)*/	  
+	}
+
+.Home05_slider_img_7:hover{
+	transform: scale(1.5);
+	-webkit-box-shadow: 0px 0px 8px 5px black;
+	-moz-box-shadow: 0px 0px 8px 2px light green;
+	box-shadow: 0px 0px 8px 2px light blue;
+	 /* (150% zoom)*/	  
+	}
+
+.Home05_slider_img_8:hover{
+	transform: scale(1.5);
+	-webkit-box-shadow: 0px 0px 8px 5px black;
+	-moz-box-shadow: 0px 0px 8px 2px light green;
+	box-shadow: 0px 0px 8px 2px light blue;
+	 /* (150% zoom)*/	  
+		}
+
+.dropdown{
+  display: none;
+  position: absolute;
+
+}
+
+.dropdown{
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content{
+  display: block;
+}
+
+.dropdown:hover span{
+	color: orangered;
+  }
+
+.People_bi {
+	position: absolute;
+	bottom: -80px;
+	right: -10px;
+}
+
+.Hoverable:hover .People_bi {
+	transform: scale(1.5);
+}
+
+.Hoverable:hover .Path_636 {
+	transform: scale(0) 
+	
+}
+
+.Football{
+	transform :scale(0.67);
+	position: absolute;
+	bottom: -140px;
+	
+}
+
+.Hoverable:hover .Football {
+	transform: scale(1.1);
+}
+
+.Dice{
+	transform: scale(0.5);
+	position: absolute;
+	bottom: -170px;
+	right : -240px;
+}
+
+.Hoverable:hover .Dice {
+	transform: scale(0.7);
+}
+
+
+
+.fbi{
+	visibility:hidden
+}
+
+.oldfb:hover .Path_637{
+	visibility:hidden;
+}
+
+.oldfb:hover .fbi{
+	visibility: visible;
+}
+
+.oldfb:hover .Path_638{
+	visibility:hidden;
+}
+
+.oldfb:hover .Path_639{
+	visibility:hidden;
+}
+
+.oldfb:hover .Path_640{
+	visibility:hidden;
+}
+
+.oldfb:hover .Path_777{
+	visibility:hidden;
+}
+
+.oldfb:hover .Path_641{
+	visibility:hidden;
+}
+
+.oldfb:hover .Exclusion_1{
+	visibility:hidden;
+}
+
+.Title{
+	visibility: hidden ;
+}
+
+.Title_hid{
+	visibility: visible ;
+}
+
+.Home{
+    left: 530px;
+    top: 230px;
+    position: absolute;
+    overflow: visible;
+    width: 232px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Rajdhani;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    color: rgba(255,102,0,1);
+}
+
+.Home:hover {
+	color: aliceblue;
+}
+
+.Home #Home{
+	color: #00ccff;
+	font-weight: bold;
+	left: 150px;
+    top: 100px;
+    position: absolute;
+    overflow: visible;
+    width: 232px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Rajdhani;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.Home:hover #Home{
+	text-shadow: 0 5px 15px rgba(222, 255, 35, 0.986);
+}
+
+.Home_hid{
+	visibility: hidden;
+}
